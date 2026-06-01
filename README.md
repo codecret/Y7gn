@@ -1,22 +1,100 @@
-# profile
-# 💫 About Me:
-🔭 I’m currently working on Web and application development.<br>👯 I’m looking to collaborate with other content creators<br>🌱 I’m currently creating projects.<br>⚡ Fun Fact I love playing piano and chess.
+# Codecret
 
+**Software & Product Studio** · **UAE**
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/695222810863206431) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codecret) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-malek-alkhodary-47a763243/) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=flat&logo=strapi&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Y7gn&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Y7gn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+Web Development · Mobile Apps · SaaS Products · AI Automation
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Y7gn&icon=1&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Codecret
+
+Codecret is a software and product studio focused on building scalable digital products, modern web applications, and mobile solutions.
+
+We help startups and businesses turn ideas into real, production-ready systems using clean architecture, modern frameworks, and automation-first thinking.
+
+```ts
+const codecret = {
+    focus: [
+        "Web Applications",
+        "Mobile Development",
+        "SaaS Platforms",
+        "AI & Automation Systems"
+    ],
+    approach: [
+        "Product Thinking",
+        "Clean Architecture",
+        "Scalable System Design",
+        "Performance First Development"
+    ],
+    principles: [
+        "Simplicity",
+        "Maintainability",
+        "Scalability",
+        "User-Centric Design"
+    ],
+};
+```
+
+---
+
+## Tech Stack
+
+### Languages
+- TypeScript
+- JavaScript
+- Python
+
+### Web & Frontend
+- Next.js
+- React
+- Tailwind CSS
+
+### Mobile
+- Flutter
+- Android
+- iOS
+
+### Backend & Database
+- Node.js
+- PostgreSQL
+- Supabase
+- Firebase
+
+### Architecture & DevOps
+- Clean Architecture
+- Docker
+- Git
+- Linux
+
+---
+
+## What We Build
+
+- SaaS platforms for startups and businesses
+- Custom web applications & dashboards
+- Mobile apps (Flutter / cross-platform)
+- AI-powered automation tools & integrations
+- APIs and backend systems at scale
+
+---
+
+## Development Philosophy
+
+> "We don’t just write code — we build systems that scale."
+
+- Product First — Every feature solves a real problem
+- Architecture Driven — Systems designed before implementation
+- Scalable by Default — Built for growth from day one
+- Clean Execution — Simple, maintainable, and reliable code
+
+---
+
+## Contact
+
+- Website: https://codecret.com
+- Instagram: https://instagram.com/epicF2ris
+- Email: 3zands2@gmail.com
+
+---
+
+**Building modern digital products from UAE**
